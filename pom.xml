@@ -5,7 +5,7 @@
   <artifactId>Git_Tomcat_Demo2</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>JenkinsWar Maven Webapp</name>
+  <name>Git-Tomcar_Demo2 Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>JenkinsWar</finalName>
+    <finalName>Git-Tomcar_Demo2</finalName>
   </build>
 </project>
